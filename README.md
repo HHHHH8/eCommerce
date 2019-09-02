@@ -1,2 +1,3 @@
 # eCommerce
-# must be open by live server
+# must be open with live server
+
